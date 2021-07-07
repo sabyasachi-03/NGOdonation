@@ -1,0 +1,39 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul list a{
+    font-size: 1.5rem;
+    padding: 0px 7px;
+    padding-bottom: 20px;
+}
+#home{
+    height: 774px;
+    padding: 3px 95px;
+}
+#home::before{
+    height: 600px;
+}
+#home p{
+    font-size: 13px;
+}
+
+#joinUs{
+    flex-direction: column;
+}
+#joinUs .box{
+    padding: 10px;
+    margin: 2px 10px;
+    margin-bottom: 15px;
+}
+
+.h-primary{
+    font-size: 36px;
+}
+.h-secondary{
+    font-size: 20px;
+}
+.btn{
+    font-size: 10px;
+    padding: 4px 8px;
+
+}
